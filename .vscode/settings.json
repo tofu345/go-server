@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "golang.go",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false
+}
